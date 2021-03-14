@@ -1,0 +1,502 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"from",
+				"from"
+			],
+			[
+				"date",
+				"datenow"
+			],
+			[
+				"B",
+				"BlockUser"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"reque",
+				"request"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"REQUEST",
+				"request"
+			],
+			[
+				"Co_working",
+				"co_workingspaces"
+			],
+			[
+				"sch",
+				"schema"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"Cli",
+				"clients"
+			],
+			[
+				"sta",
+				"staff"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"eva",
+				"evaluation"
+			],
+			[
+				"food",
+				"foodQuantity"
+			],
+			[
+				"choose",
+				"chooseController"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"user_",
+				"user_degree"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"Ca",
+				"Category"
+			],
+			[
+				"Categ",
+				"category"
+			],
+			[
+				"rq",
+				"request"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"Co",
+				"Controller"
+			],
+			[
+				"C",
+				"Controller"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"degree_",
+				"degree_faculty"
+			],
+			[
+				"Do",
+				"Documentation"
+			],
+			[
+				"facul",
+				"faculty"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bord",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "instal pa",
+		"selected_items":
+		[
+			[
+				"instal pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/FinalVersion_Backend/final-project/src/login/Login.js",
+		"/E/ITI(MEARN)/2-Pre-requests Review/TaskCV.html",
+		"/C/Users/hp/Desktop/6.js",
+		"/E/ITI(MEARN)/19-Angular/Project/Project/src/index.html",
+		"/E/ITI(MEARN)/Bootstrap/Tak2/3.html",
+		"/E/ITI(MEARN)/5-HTML5&CSS3/Day 3/Demos/SVG Demo/Svg Images/SVG - image.html",
+		"/E/ITI(MEARN)/3-JavaScript/CH_9/cookies.html",
+		"/C/Users/hp/Desktop/TaskCV.html",
+		"/C/Users/hp/Desktop/web site/Task(5)Session(5).Html",
+		"/C/Users/hp/Desktop/web site/index.html",
+		"/C/xampp/htdocs/gradproj/.env",
+		"/C/xampp/htdocs/gradproj/resources/views/emails/welcome.blade.php",
+		"/C/xampp/htdocs/gradproj/app/Mail/WelcomeMail.php",
+		"/C/Users/hp/Desktop/cubes/cubes/gradproj/app/Http/Controllers/API/AuthController.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_08_10_150013_co_review.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_08_10_145146_sessions.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_08_10_144108_co_opening_hour.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_08_10_134727_co_seating_desk.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_08_10_133521_co_booking.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_08_10_132726_co_workingspace.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_08_10_131935_client.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_08_10_151634_fire.php",
+		"/C/xampp/htdocs/gradproj/config/filesystems.php",
+		"/C/Users/hp/Desktop/2019_09_06_234822_create_clients_table.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_08_10_024744_name.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_08_10_024628_create_names_table.php",
+		"/C/xampp/htdocs/gradproj/app/BlockUser.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_08_09_213948_create_blocked_users_table.php",
+		"/C/xampp/htdocs/gradproj/app/Http/Controllers/BookController.php",
+		"/C/xampp/htdocs/gradproj/app/Session.php",
+		"/C/xampp/htdocs/gradproj/app/Co_workingspace.php",
+		"/C/xampp/htdocs/gradproj/app/Client.php",
+		"/C/xampp/htdocs/gradproj/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/python.py",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_05_30_005005_create_block_users_table.php",
+		"/C/xampp/htdocs/gradproj/app/Http/Kernel.php",
+		"/C/xampp/htdocs/gradproj/config/app.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_05_30_004751_create_fires_table.php",
+		"/C/xampp/htdocs/gradproj/app/User_Fire.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_05_30_003551_create_user__fires_table.php",
+		"/C/xampp/htdocs/proj/app/Http/Kernel.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_05_13_000415_create_co_reviews_table.php",
+		"/C/xampp/htdocs/gradproj/app/Http/Controllers/Co_workingspace_Controller.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_05_03_031336_create_files_table.php",
+		"/C/xampp/htdocs/myproject/vendor/laravel/framework/src/Illuminate/Support/Arr.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_03_19_095538_create_co_bookings_table.php",
+		"/C/xampp/htdocs/gradproj/app/Http/Controllers/API/AuthController.php",
+		"/C/xampp/htdocs/gradproj/routes/api.php",
+		"/C/xampp/htdocs/gradproj/app/Http/Controllers/ClientController.php",
+		"/C/xampp/htdocs/gradproj/app/Http/Middleware/Cors.php",
+		"/C/xampp/htdocs/gradproj/app/Http/Middleware/APIToken.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_03_06_035622_create_co_seating_desks_table.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_03_06_030652_create_co_opening_hours_table.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_02_28_044522_create_sessions_table.php",
+		"/C/Users/hp/AppData/Local/Julia-1.3.1/LICENSE.md",
+		"/C/xampp/htdocs/CKES/app/Http/Controllers/register_employeeController.php",
+		"/C/xampp/htdocs/proj/.env",
+		"/C/xampp/htdocs/CKES/.env",
+		"/C/xampp/htdocs/proj/app/Http/Controllers/evaluationController.php",
+		"/C/xampp/htdocs/CKES/resources/views/emails/welcome.blade.php",
+		"/C/xampp/htdocs/CKES/app/Mail/WelcomeMail.php",
+		"/C/xampp/htdocs/CKES/app/Http/Controllers/adminController.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2020_01_27_074946_create_co_workingspaces_table.php",
+		"/C/xampp/htdocs/gradproj/routes/web.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2019_12_27_155618_create_clients_table.php",
+		"/E/Internet Application/Lecture/Lecture/from_midterm/js_code/js_0003.jsp",
+		"/E/Internet Application/Lecture/Lecture/from_midterm/js_code/js_0002.jsp",
+		"/E/Internet Application/Lecture/Lecture/from_midterm/js_code/js_005.jsp",
+		"/E/Internet Application/Lecture/Lecture/from_midterm/js_code/js_004.jsp",
+		"/E/Internet Application/Lecture/Lecture/from_midterm/js_code/js_0001.jsp",
+		"/E/Internet Application/Lecture/Lecture/from_midterm/jx_code/t2.jsp",
+		"/E/Internet Application/Lecture/Lecture/from_midterm/jx_code/t1.jsp",
+		"/E/Internet Application/Lecture/Lecture/from_midterm/jx_code/ajax_02.jsp",
+		"/E/Internet Application/Lecture/Lecture/from_midterm/jx_code/ajax_01.jsp",
+		"/C/xampp/htdocs/proj/app/User.php",
+		"/C/xampp/htdocs/proj/database/migrations/2019_09_15_193905_create_foods_table.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2019_08_19_000000_create_failed_jobs_table.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/xampp/htdocs/gradproj/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/GP/routes/web.php",
+		"/C/xampp/htdocs/gpA/.env",
+		"/C/xampp/htdocs/gpA/routes/console.php",
+		"/C/xampp/htdocs/GP/resources/views/auth/register.blade.php",
+		"/C/xampp/htdocs/GP/app/Http/Controllers/Auth/LoginController.php",
+		"/C/xampp/htdocs/GP/routes/api.php",
+		"/C/xampp/htdocs/gpA/routes/web.php",
+		"/C/xampp/htdocs/gpA/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/gpA/app/Http/Controllers/loginController.php",
+		"/C/xampp/htdocs/gpA/public/favicon.ico",
+		"/C/xampp/htdocs/GP/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/C/xampp/htdocs/Gproject/.env",
+		"/C/xampp/htdocs/API/.env.example",
+		"/C/xampp/htdocs/API/config/app.php",
+		"/C/xampp/htdocs/API/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/GP/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/GP/.env",
+		"/C/xampp/htdocs/GP/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/CKES/routes/web.php",
+		"/C/xampp/htdocs/proj/resources/views/home.blade.php",
+		"/C/xampp/htdocs/proj/resources/views/evaluation.blade.php",
+		"/C/xampp/htdocs/proj/app/Http/Controllers/todayController.php",
+		"/C/xampp/htdocs/proj/app/Http/Controllers/CategoryController.php",
+		"/C/xampp/htdocs/proj/routes/web.php",
+		"/C/xampp/htdocs/proj/resources/views/update_weight.blade.php",
+		"/C/xampp/htdocs/proj/app/Http/Controllers/updateweightController.php",
+		"/C/xampp/htdocs/proj/resources/views/prev_evaluation.blade.php",
+		"/C/xampp/htdocs/proj/resources/views/register.blade.php",
+		"/C/xampp/htdocs/CKES/app/Http/Controllers/fltsadminController.php",
+		"/C/xampp/htdocs/CKES/app/Http/Controllers/facultyEmployeeController.php",
+		"/C/xampp/htdocs/CKES/app/Http/Controllers/facultyemployeepageController.php",
+		"/C/xampp/htdocs/CKES/resources/views/facultyEmployee_page.blade.php",
+		"/C/xampp/htdocs/CKES/app/Http/Controllers/adminpageController.php",
+		"/C/xampp/htdocs/CKES/resources/views/show_user.blade.php",
+		"/C/xampp/htdocs/CKES/resources/views/Admin_login.blade.php",
+		"/C/xampp/htdocs/CKES/resources/views/facultyAdmin_page.blade.php",
+		"/C/xampp/htdocs/CKES/app/Http/Controllers/facultyadminpageController.php",
+		"/C/xampp/htdocs/CKES/resources/views/facultyEmployee_login.blade.php",
+		"/C/xampp/htdocs/CKES/app/Http/Controllers/facultyadminController.php",
+		"/C/xampp/htdocs/CKES/resources/views/Admin_page.blade.php",
+		"/C/xampp/htdocs/CKES/app/Http/Controllers/show_usercheckedController.php",
+		"/C/xampp/htdocs/CKES/app/Http/Controllers/show_userController.php",
+		"/C/xampp/htdocs/CKES/resources/views/systemAdmin_home.blade.php",
+		"/C/xampp/htdocs/CKES/app/Http/Controllers/systemadminController.php",
+		"/C/xampp/htdocs/CKES/resources/views/systemAdmin_login.blade.php",
+		"/C/xampp/htdocs/CKES/resources/views/facultyAdmin_home.blade.php",
+		"/C/xampp/htdocs/CKES/resources/views/facultyAdmin_login.blade.php",
+		"/C/xampp/htdocs/CKES/resources/views/fltsAdmin_home.blade.php",
+		"/C/xampp/htdocs/CKES/resources/views/fltsAdmin_login.blade.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TransformWrapper",
+			"getAllCoworkingSpace",
+			"search",
+			"blo",
+			"block",
+			"sessions",
+			"coworking_spaces",
+			"co_workingspaces",
+			"clients",
+			"diff",
+			"diss",
+			"client_id",
+			"co_bookings",
+			"client_id",
+			"co_bookings",
+			"block_users",
+			"status",
+			"Flag",
+			"status",
+			"Flag",
+			"stdClass",
+			"client_id",
+			"ddd",
+			"]);\n",
+			"collegue",
+			"email"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TaskLaravel.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
